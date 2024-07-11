@@ -1,5 +1,5 @@
 // const backendApiUrl = 'https://librarymanagement-6lk3.onrender.com'; // production
-const backendApiUrl = "http://localhost:8080/api"; // development
+const backendApiUrl = "https://lms-proj.onrender.com/api"; // development
 
 const routes = {
   AUTHOR: 'author',
